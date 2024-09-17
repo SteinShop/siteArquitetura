@@ -1,5 +1,44 @@
+/* CSS HEX */
+/* --hunyadi-yellow: #f6bd60ff;
+--linen: #f7ede2ff;
+--tea-rose-red: #f5cac3ff;
+--cambridge-blue: #84a59dff;
+--light-coral: #f28482ff; */
+https://coolors.co/palette/f6bd60-f7ede2-f5cac3-84a59d-f28482
+
+
+
+
+body{
+
+
+background-color: #6c584c ;
+
+
+
+}
+
+
 img{
     width: 300px;
-    border: 5px solid black
+    border: 5px solid white
     border-radius: 10px;
+
+h1{
+color:brown
+
+
 }
+
+h2{
+
+    color:brown
+}
+h3{
+color:brown
+
+
+}
+
+
+
