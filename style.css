@@ -10,19 +10,22 @@
 
 
 
+background-color black
+
 
 
 img{
     width: 300px;
     border: 5px solid white,
-    border-radius: 10px,
-    
+    border-radius 10px,
+}
+
 .ícone{
 width: 24px
 
 }
 
-}
+
 
 
 
@@ -42,5 +45,9 @@ color:brown
 
 }
 
+h4{
 
+color:blueviolet
+
+}
 
