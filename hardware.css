@@ -1,0 +1,11 @@
+div{
+    background-color: #817fcc;
+    margin-bottom: 5p;
+    border: 1px solid #000000;
+    font-family: 'Times New Roman', Times, serif;
+    min-height: 400px;
+border-radius: 10px;
+padding: 10px;
+box-shadow: 0 0 10px rgba(0,0,0,0.5);
+
+}
