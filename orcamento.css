@@ -1,0 +1,36 @@
+td{
+    border: 2px solid #6bd416;
+    padding: 3px;
+    text-align: center;
+    background-color: #9c9c9c;
+    border-radius: 6px;
+    color: blue;
+}
+
+body{
+
+background-color: #747171;
+text-align: center;
+align-items: center;
+
+}
+
+th{
+    border: 2px solid #6bd416;
+    padding: 3px;
+    text-align: center;
+    background-color: #84bbb8;
+    border-radius: 6px;
+    color: rgb(36, 36, 59);
+    
+}
+
+table{
+    background-color: rgb(70, 36, 36);
+    border-radius: 10px;
+    
+}
+
+h1{
+    color: rgb(252, 240, 240);
+}
